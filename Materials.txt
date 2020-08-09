@@ -1,0 +1,37 @@
+📚
+ Materials/References:
+GitHub Code (feel free to give it a star 
+⭐
+)  - https://github.com/adrianhajdin/project_corona_tracker
+Image: https://i.ibb.co/7QpKsCX/image.png
+API: https://covid19.mathdro.id/api
+
+API : 
+{
+"confirmed": {
+"value": 19665645,
+"detail": "https://covid19.mathdro.id/api/confirmed"
+},
+"recovered": {
+"value": 11950845,
+"detail": "https://covid19.mathdro.id/api/recovered"
+},
+"deaths": {
+"value": 727353,
+"detail": "https://covid19.mathdro.id/api/deaths"
+},
+"dailySummary": "https://covid19.mathdro.id/api/daily",
+"dailyTimeSeries": {
+"pattern": "https://covid19.mathdro.id/api/daily/[dateString]",
+"example": "https://covid19.mathdro.id/api/daily/2-14-2020"
+},
+"image": "https://covid19.mathdro.id/api/og",
+"source": "https://github.com/mathdroid/covid19",
+"countries": "https://covid19.mathdro.id/api/countries",
+"countryDetail": {
+"pattern": "https://covid19.mathdro.id/api/countries/[country]",
+"example": "https://covid19.mathdro.id/api/countries/USA"
+},
+"lastUpdate": "2020-08-09T10:34:55.000Z"
+}
+
