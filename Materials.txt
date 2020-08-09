@@ -35,3 +35,7 @@ API :
 "lastUpdate": "2020-08-09T10:34:55.000Z"
 }
 
+// requirments
+// $ npm install --save axios react-chartjs-2 react-countup classnames
+// $ npm install --save @material-ui/core
+// 
